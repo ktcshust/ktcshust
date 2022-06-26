@@ -1,8 +1,5 @@
 ### Hi i'm Kiet Vu Tuan, and you can call me KayTee
 
-<!--
-**ktcshust/ktcshust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My skills are broad in Python, Javascript, Java, Data Science, AI and Cyber Security
 - 🔭 I’m currently a Computer Science student at HUST and a researcher at BKAI lab...
 - 🌱 I’m currently learning Machine Learning and Deep Learning 
