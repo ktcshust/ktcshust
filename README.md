@@ -1,5 +1,9 @@
 ### Hi i'm Kiet Vu Tuan, and you can call me KayTee
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 My skills are broad in Python, Javascript, Java, Data Science, AI and Cyber Security
 - 🔭 I’m currently a Computer Science student at HUST and a researcher at BKAI lab...
 - 🌱 I’m currently learning Machine Learning and Deep Learning 
