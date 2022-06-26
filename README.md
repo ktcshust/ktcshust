@@ -14,14 +14,8 @@ My skills are broad in Python, Javascript, Java, Data Science, AI and Cyber Secu
 + In addition to my interest in math and programming, I also have other interests such as sports (soccer, basketball) or music (playing guitar, rap)
 + I have 2 ex-girlfriends and now, I'm single 
 
-Some social network sites where you can contact me
-+ Facebook : https://www.facebook.com/kiet.tuan.275/
-+ Instagram : kaytee.od
-+ Discord : KayTeeOD #0288
-+ Steam : https://steamcommunity.com/profiles/76561199250126035
-+ LinkedIn : https://www.linkedin.com/in/kiet-vu-tuan-9035a123a/
 
-### Social network
+### Social network :
 <div id="badges">
   <a href="https://www.linkedin.com/in/kiet-vu-tuan-9035a123a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -38,5 +32,18 @@ Some social network sites where you can contact me
   <a href="https://stackoverflow.com/">
     <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
+</div>
+
+### Programming skills :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c#/c#-original-wordmark.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
