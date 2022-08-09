@@ -49,6 +49,6 @@ My skills are broad in Python, Javascript, Java, Data Science, AI and Cyber Secu
 
 ### :fire: My Stats :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ktcshust&theme=dark&background=000003)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ktcshust&theme=dark&background=000007)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktcshust&layout=compact&theme=vision-friendly-black)
 
