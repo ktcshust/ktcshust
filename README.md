@@ -1,7 +1,7 @@
 ### Hi i'm Kiet Vu Tuan, and you can call me KayTee
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="620" height="310"/>
 </div>
 
 My skills are broad in Python, Javascript, Java, Data Science, AI and Cyber Security
